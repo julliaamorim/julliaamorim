@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Jullia Amorim 👩🏻‍💻
+## Seja bem-vindo(a) ao meu perfil!  👩🏻‍💻
 
  <div>
    <a href="https://github.com/julliaamorim">
