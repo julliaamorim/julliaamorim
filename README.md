@@ -1,12 +1,12 @@
-<h1 align="left">Seja muito bem-vindo(a) ao meu perfil! 👩🏻‍💻💜</h1>
+<h1 align="left">Welcome to my profile! 👩🏻‍💻💜</h1>
 
 ###
 
-<p align="left">Meu nome é  Jullia Amorim e sou uma <br> Programadora Front End.</p>
+<p align="left">My name is Jullia Amorim and I am a <br> Frontend Programmer.</p>
 
 ###
 
-<h2 align="left">Eu codifico com</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
